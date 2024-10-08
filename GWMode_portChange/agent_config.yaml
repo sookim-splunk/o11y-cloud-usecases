@@ -1,9 +1,3 @@
-░░ Support: https://access.redhat.com/support
-░░
-░░ A start job for unit splunk-otel-collector.service has finished successfully.
-░░
-░░ The job identifier is 265661.
-Sep 12 03:05:13 ip-10-0-50-194.ap-northeast-2.compute.internal otelcol[4006391]: 2024/09/12 03:05:13 settings.go:477: Set config to /etc/otel/collector/agent_config.yaml
 # Default configuration file for the Linux (deb/rpm) and Windows MSI collector packages
 
 # If the collector is installed without the Linux/Windows installer script, the following
